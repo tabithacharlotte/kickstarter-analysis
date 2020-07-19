@@ -26,15 +26,15 @@ During my work, I also experienced some challenges with using excel and the data
 Out of 1,651 successful Kickstarter campaigns launched in the United States, 525 theater campaigns were successful -- the highest of any category. 
 Theater was followed by campaigns that fell in the music and film and video categories.
 
- ![outcomes by category](category_outcomes.png)
+ ![outcomes by category](resources_classwork/category_outcomes.png)
 
 Looking at the outcomes of theater campaigns based on launch data, we can see a high number of successful campaigns in May that dropped as the year went on. There was also a spike in failed campaigns in October, and fairly low canceled campaigns throughout the year. 
 
-![outcomes by theater launch](outcomes_theater_launch.png)
+![outcomes by theater launch](resources_classwork/outcomes_theater_launch.png)
 
 An examination of outcomes for all categories of Kickstarter campaigns by launch date reveals a spike in successful campaigns around May that then increases in October, plateauing through November, and steeply dropping until December. 
 
-![outcomes all categories by launch date](outcomes_all_launch.png)
+![outcomes all categories by launch date](resources_classwork/outcomes_all_launch.png)
 
 Based on these two graphs, anyone planning on launching a theater campaign might want to start in May and or June. 
 
@@ -42,14 +42,14 @@ Based on these two graphs, anyone planning on launching a theater campaign might
 
 The playwright's goal of launching a play with a budget of more than $10,000 in the United States, may not be the most advisable, given she is planning on asking for more than double the average of the successful Kickstarter goal and only $500 less than the average failed goal.
 
-![stats for kickstarter plays in US](stats_US_kickstarter.png)
+![stats for kickstarter plays in US](resources_classwork/stats_US_kickstarter.png)
 
  
 However, the mean and median pledged amounts along with the upper and lower quartile of pledged amounts are much smaller than the successful pledges, which may show that unsuccessful Kickstarter campaigns failed for reasons other than asking for too much money. 
 The interquartile ranges for the data show that there are some outliers in the data set as well. Standard deviations are almost twice the interquartile range for every distribution, except for the failed Kickstarter, where the standard deviation is closer to three times the interquartile range. 
 As the box and whisker plot of the distribution of goal and pledge amounts for theater Kickstarter campaigns in the U.S. also shows, there were some high requests for funding that are driving the distributions. 
 
-![distributions goal and pledged](box_and_whisper.png)
+![distributions goal and pledged](resources_classwork/box_and_whisper.png)
 
 
 ### Challenges and Difficulties Encountered
