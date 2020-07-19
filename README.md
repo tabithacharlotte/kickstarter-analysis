@@ -26,7 +26,7 @@ During my work, I also experienced some challenges with using excel and the data
 Out of 1,651 successful Kickstarter campaigns launched in the United States, 525 theater campaigns were successful -- the highest of any category. 
 Theater was followed by campaigns that fell in the music and film and video categories.
 
- ![outcomes by category](outcomes_by_category.png)
+ ![outcomes by category](category_outcomes.png)
 
 Looking at the outcomes of theater campaigns based on launch data, we can see a high number of successful campaigns in May that dropped as the year went on. There was also a spike in failed campaigns in October, and fairly low canceled campaigns throughout the year. 
 
